@@ -1,0 +1,33 @@
+Instalación
+
+	Para instalar la base de datos de Ryu Technology por favor instalar cada script localizado en cada carpeta en el orden numérico correspondiente:
+
+
+1. Insercion tablas
+
+2. Insercion datos
+
+3. Script Vistas
+
+4. Script Stored Procedure
+
+5. Script Triggers
+
+6. Script Funciones
+
+
+	Se incluyen demostración de los sublenguajes DCL y TCL
+
+
+7. Script DCL
+
+8. Script TCL
+
+
+	También se incluye dos script en caso de requerirse, para restablecer la base de datos:
+
+
+9. Scripts backup
+
+	9.1 backup de datos
+	9.2 backup de datos y strcuture 
